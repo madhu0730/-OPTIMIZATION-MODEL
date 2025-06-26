@@ -53,3 +53,4 @@ x, y ≥ 0 and must be integers (no half products!)
 
 The project is clean, repeatable, and can be shared on platforms like GitHub for portfolio use. It’s a great intro into the world of operations research, optimization, and data-driven decisions.
 #OUTPUT
+![Image](https://github.com/user-attachments/assets/320c241c-410d-49f0-857f-0b91e51671b4)
